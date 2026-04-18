@@ -5,6 +5,7 @@ Use this page to track references used to evolve this handbook.
 ## Recommended references
 
 - Abseil Software Engineering at Google
+- Atlassian Engineering handbook (guide for autonomous teams)
 - Google Engineering Practices documentation
 - Documentation style guides used by your organization
 - Relevant framework and language best-practice docs

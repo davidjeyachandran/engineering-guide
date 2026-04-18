@@ -45,8 +45,11 @@ npm run format:check
 - [Development Process](docs/dev-process.md)
 - [Technical Guidelines](docs/tech-guidelines.md)
 - [Codebase Structure and Feature Delivery](docs/codebase-structure-and-feature-delivery.md)
+- [Reliability and Incident Response](docs/reliability-and-incident-response.md)
+- [Risk, Compliance, and Disaster Recovery](docs/risk-compliance-and-disaster-recovery.md)
 - [Onboarding](docs/onboarding.md)
 - [Team Collaboration](docs/team-collaboration.md)
+- [Templates](docs/templates/README.md)
 - [Sources](docs/sources.md)
 
 ## License
