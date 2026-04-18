@@ -1,16 +1,16 @@
 {
-    "name": "engineering-guide",
-    "version": "0.1.0",
-    "private": true,
-    "description": "Reusable engineering handbook template",
-    "license": "MIT",
-    "scripts": {
-        "lint": "markdownlint '*.md' 'docs/**/*.md' '.github/**/*.md'",
-        "format": "prettier --write .",
-        "format:check": "prettier --check ."
-    },
-    "devDependencies": {
-        "markdownlint-cli": "^0.41.0",
-        "prettier": "^3.3.3"
-    }
+  "name": "engineering-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable engineering handbook template",
+  "license": "MIT",
+  "scripts": {
+    "lint": "markdownlint '*.md' 'docs/**/*.md' '.github/**/*.md'",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0",
+    "prettier": "^3.3.3"
+  }
 }
