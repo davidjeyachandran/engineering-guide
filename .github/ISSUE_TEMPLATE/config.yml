@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security concern
+    url: mailto:<security-email>
+    about: Please report sensitive vulnerabilities privately.
